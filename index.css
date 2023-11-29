@@ -1,0 +1,45 @@
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-shadow: -1px 0 aqua, 0 1px aqua, 1px 0 aqua, 0 -1px aqua;
+;
+}
+h1 {
+    color: rgb(214, 14, 188);
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#messageEl  {
+    font-style: italic;
+}
+
+
+
+#knopka {
+    color: black;
+    width: 150px;
+    background-color: forestgreen;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#newcardknopka {
+    color: black;
+    width: 150px;
+    background-color: forestgreen;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
